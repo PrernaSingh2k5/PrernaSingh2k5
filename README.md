@@ -1,2 +1,15 @@
-#![](https://komarev.com/ghpvc/?username=PrernaSingh2k5&label=Profile%20views&color=0e75b6&style=flat)
+💻 Tech Stack:
+!Python !React !Next JS !Three js !Java
+📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Yami066&show_icons=true&theme=dark)
+
+![](https://streak-stats.demolab.com?user=Yami066&theme=dark)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yami066&layout=compact&theme=dark)
+
+🔝 Contribution Graph
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yami066&theme=github_dark)
+
+👁️ Profile Views
+![](https://komarev.com/ghpvc/?username=Yami066&label=Profile%20views&color=0e75b6&style=flat)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in/ ) -->
